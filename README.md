@@ -60,7 +60,7 @@ Da un ejemplo
 _Agrega notas adicionales sobre como hacer deploy_
 
 ##
-![Alt text](/imagenes_grafos/malla_30.png?raw=true "Optional Title")
+![Alt text](/imagenes_Grafos/malla_30.png?raw=true "Optional Title")
 
 ## Construido con 🛠️
 
