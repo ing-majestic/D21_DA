@@ -1,6 +1,6 @@
 # Biblioteca python de Grafos
 
-_Acá va un párrafo que describa lo que es el proyecto_
+_Se programan en python los diferentes modelos de datos para representar grafos como son malla, ErdosRenyi, Gilbert, Grafo Geografico, Barabasi-Albert, Dogorovtsev_Mendes
 ![Alt text](/imagenes_Grafos/malla_30.png?raw=true "Optional Title")
 ## Comenzando 🚀
 
