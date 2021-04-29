@@ -58,6 +58,7 @@ Da un ejemplo
 ## Despliegue 📦
 
 _Agrega notas adicionales sobre como hacer deploy_
+![Alt text](/relative/imagenes/malla_30.png?raw=true "Optional Title")
 
 ## Construido con 🛠️
 
