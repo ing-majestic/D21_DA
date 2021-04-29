@@ -61,6 +61,8 @@ _Agrega notas adicionales sobre como hacer deploy_
 
 ##
 ![Alt text](/imagenes_Grafos/malla_30.png?raw=true "Optional Title")
+![Alt text](/imagenes_Grafos/Erdosenry_30.png?raw=true "Optional Title")
+![Alt text](/imagenes_Grafos/Gilbert_30.png?raw=true "Optional Title")
 
 ## Construido con 🛠️
 
