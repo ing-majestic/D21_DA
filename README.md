@@ -61,9 +61,16 @@ _Agrega notas adicionales sobre como hacer deploy_
 
 ##
 ![Alt text](/imagenes_Grafos/malla_30.png?raw=true "Optional Title")
-![Alt text](/imagenes_Grafos/Erdosenry_30.png?raw=true "Optional Title")
+![Alt text](/imagenes_Grafos/ErdosRenyi_30.png?raw=true "Optional Title")
 ![Alt text](/imagenes_Grafos/Gilbert_30.png?raw=true "Optional Title")
 
+![Alt text](/imagenes_Grafos/malla_100.png?raw=true "Optional Title")
+![Alt text](/imagenes_Grafos/ErdosRenyi100.png?raw=true "Optional Title")
+![Alt text](/imagenes_Grafos/Gilbert100.png?raw=true "Optional Title")
+
+![Alt text](/imagenes_Grafos/malla_500.png?raw=true "Optional Title")
+![Alt text](/imagenes_Grafos/ErdosRenyi500.png?raw=true "Optional Title")
+![Alt text](/imagenes_Grafos/Gilbert_500.png?raw=true "Optional Title")
 ## Construido con 🛠️
 
 _Menciona las herramientas que utilizaste para crear tu proyecto_
